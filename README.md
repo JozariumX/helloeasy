@@ -1,2 +1,2 @@
 # helloeasy
-DevOps test project
+welcome to git training!
